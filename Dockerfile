@@ -12,4 +12,4 @@ RUN npm install
 
 EXPOSE 3002
 
-CMD npm start   # test
+CMD npm start
