@@ -11,6 +11,6 @@ COPY . .
 RUN npm install
 
 # 3002
-EXPOSE 300   
+EXPOSE 3002
 
 CMD npm start
